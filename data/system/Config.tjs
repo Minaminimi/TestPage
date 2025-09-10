@@ -11,8 +11,8 @@
 ;useCamera=true
 ;use3D=false
 ;KeepSpaceInParameterValue=2
-;scWidth=640
-;scHeight=480
+;scWidth=960
+;scHeight=640
 ;vchat=false
 ;vchatMenuVisible=false
 ;chSpeed=30

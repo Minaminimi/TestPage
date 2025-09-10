@@ -21,9 +21,8 @@
 	
 
 	;タイトル各種ボタン
-	[glink color="black" text="はじめから" x=400 y=270 size=20 target="*start"]
-	[glink color="black" text="つづきから" x=400 y=370 size=20 target="*load"]
-
+	[glink color="black" text="はじめから" x=600 y=370 size=24 target="*start"]
+	[glink color="black" text="つづきから" x=600 y=470 size=24 target="*load"]
 
 	
 
